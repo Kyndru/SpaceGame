@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceThingy", "SpaceThingy\SpaceThingy\SpaceThingy.csproj", "{B17F30E8-FB14-4B41-8CD2-4CF0405A7D59}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SpaceThingyContent", "SpaceThingy\SpaceThingyContent\SpaceThingyContent.contentproj", "{DF45F637-57FD-467B-AB08-AD09D3F13543}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B17F30E8-FB14-4B41-8CD2-4CF0405A7D59}.Debug|x86.ActiveCfg = Debug|x86
+		{B17F30E8-FB14-4B41-8CD2-4CF0405A7D59}.Debug|x86.Build.0 = Debug|x86
+		{B17F30E8-FB14-4B41-8CD2-4CF0405A7D59}.Release|x86.ActiveCfg = Release|x86
+		{B17F30E8-FB14-4B41-8CD2-4CF0405A7D59}.Release|x86.Build.0 = Release|x86
+		{DF45F637-57FD-467B-AB08-AD09D3F13543}.Debug|x86.ActiveCfg = Debug|x86
+		{DF45F637-57FD-467B-AB08-AD09D3F13543}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+Content\ships\player.xnb
+Content\backgrounds\background.xnb
+Content\ships\ship1.xnb
+Content\ships\ship2.xnb
+Content\backgrounds\background1.xnb
+Content\backgrounds\background2.xnb
+Content\backgrounds\background3.xnb
+Content\weapons\bullet1.xnb
+Content\tools\arrow.xnb
+Content\weapons\rocket1.xnb
+Content\backgrounds\background4.xnb
+Content\fonts\text.xnb
+Content\stations\spartan.xnb
+Content\fonts\textbig.xnb

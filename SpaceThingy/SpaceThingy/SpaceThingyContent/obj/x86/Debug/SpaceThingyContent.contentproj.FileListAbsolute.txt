@@ -1,0 +1,1 @@
+c:\users\lschneider\documents\visual studio 2010\Projects\SpaceThingy\SpaceThingy\SpaceThingyContent\obj\x86\Debug\SpaceThingyContent.contentprojResolveAssemblyReference.cache

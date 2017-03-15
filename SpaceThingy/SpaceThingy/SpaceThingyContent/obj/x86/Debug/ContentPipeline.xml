@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>ships\player.png</Source>
+      <Name>ships\player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lschneider\Documents\Visual Studio 2010\Projects\SpaceThingy\SpaceThingy\SpaceThingy\bin\x86\Debug\Content\ships\player.xnb</Output>
+      <Time>2014-01-27T10:20:06.2758781+01:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\background.png</Source>
+      <Name>backgrounds\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lschneider\Documents\Visual Studio 2010\Projects\SpaceThingy\SpaceThingy\SpaceThingy\bin\x86\Debug\Content\backgrounds\background.xnb</Output>
+      <Time>2014-02-03T09:28:16.0925048+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ships\ship1.png</Source>
+      <Name>ships\ship1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lschneider\Documents\Visual Studio 2010\Projects\SpaceThingy\SpaceThingy\SpaceThingy\bin\x86\Debug\Content\ships\ship1.xnb</Output>
+      <Time>2014-02-04T14:48:17.1941907+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ships\ship2.png</Source>
+      <Name>ships\ship2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lschneider\Documents\Visual Studio 2010\Projects\SpaceThingy\SpaceThingy\SpaceThingy\bin\x86\Debug\Content\ships\ship2.xnb</Output>
+      <Time>2014-02-04T14:48:17.2011914+01:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\background1.png</Source>
+      <Name>backgrounds\background1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lschneider\Documents\Visual Studio 2010\Projects\SpaceThingy\SpaceThingy\SpaceThingy\bin\x86\Debug\Content\backgrounds\background1.xnb</Output>
+      <Time>2014-02-04T15:03:02.7935181+01:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\background2.png</Source>
+      <Name>backgrounds\background2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lschneider\Documents\Visual Studio 2010\Projects\SpaceThingy\SpaceThingy\SpaceThingy\bin\x86\Debug\Content\backgrounds\background2.xnb</Output>
+      <Time>2014-02-04T15:03:02.8015181+01:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\background3.png</Source>
+      <Name>backgrounds\background3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lschneider\Documents\Visual Studio 2010\Projects\SpaceThingy\SpaceThingy\SpaceThingy\bin\x86\Debug\Content\backgrounds\background3.xnb</Output>
+      <Time>2014-02-04T15:03:02.8105181+01:00</Time>
+    </Item>
+    <Item>
+      <Source>weapons\bullet1.png</Source>
+      <Name>weapons\bullet1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lschneider\Documents\Visual Studio 2010\Projects\SpaceThingy\SpaceThingy\SpaceThingy\bin\x86\Debug\Content\weapons\bullet1.xnb</Output>
+      <Time>2014-02-05T09:19:17.1052297+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tools\arrow.png</Source>
+      <Name>tools\arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lschneider\Documents\Visual Studio 2010\Projects\SpaceThingy\SpaceThingy\SpaceThingy\bin\x86\Debug\Content\tools\arrow.xnb</Output>
+      <Time>2014-02-05T15:35:39.2051433+01:00</Time>
+    </Item>
+    <Item>
+      <Source>weapons\rocket1.png</Source>
+      <Name>weapons\rocket1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lschneider\Documents\Visual Studio 2010\Projects\SpaceThingy\SpaceThingy\SpaceThingy\bin\x86\Debug\Content\weapons\rocket1.xnb</Output>
+      <Time>2014-02-06T09:39:00.4869955+01:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\background4.png</Source>
+      <Name>backgrounds\background4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lschneider\Documents\Visual Studio 2010\Projects\SpaceThingy\SpaceThingy\SpaceThingy\bin\x86\Debug\Content\backgrounds\background4.xnb</Output>
+      <Time>2014-02-10T09:32:04.312133+01:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts\text.spritefont</Source>
+      <Name>fonts\text</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lschneider\Documents\Visual Studio 2010\Projects\SpaceThingy\SpaceThingy\SpaceThingy\bin\x86\Debug\Content\fonts\text.xnb</Output>
+      <Time>2014-01-27T10:42:22.3304702+01:00</Time>
+    </Item>
+    <Item>
+      <Source>stations\spartan.png</Source>
+      <Name>stations\spartan</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lschneider\Documents\Visual Studio 2010\Projects\SpaceThingy\SpaceThingy\SpaceThingy\bin\x86\Debug\Content\stations\spartan.xnb</Output>
+      <Time>2014-09-29T09:45:01.2996989+02:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts\textbig.spritefont</Source>
+      <Name>fonts\textbig</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\lschneider\Documents\Visual Studio 2010\Projects\SpaceThingy\SpaceThingy\SpaceThingy\bin\x86\Debug\Content\fonts\textbig.xnb</Output>
+      <Time>2014-09-29T13:40:09.6446943+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\lschneider\Documents\Visual Studio 2010\Projects\SpaceThingy\SpaceThingy\SpaceThingyContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\lschneider\Documents\Visual Studio 2010\Projects\SpaceThingy\SpaceThingy\SpaceThingy\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\lschneider\Documents\Visual Studio 2010\Projects\SpaceThingy\SpaceThingy\SpaceThingyContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\lschneider\Documents\Visual Studio 2010\Projects\SpaceThingy\SpaceThingy\SpaceThingy\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-11-25T09:18:56.7932377+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
